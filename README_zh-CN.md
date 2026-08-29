@@ -11,7 +11,14 @@
 
 ## 使用 AI 创建 Unreal 游戏
 
-想更快开始 Unreal 游戏原型开发？试试 [SeeleAI Unreal Game Creator](https://www.seeles.ai/features/create/unreal-game)。
+想更快制作原生 Unreal 游戏原型？SeeleAI 的 Seele Agent 可以将自然语言想法转化为浏览器中的可编辑 Unreal Engine 5 工程。
+
+- 🧠 用自然语言描述游戏类型、场景、玩法机制或视觉方向，再通过 AI 生成的起始提示词塑造工程。
+- 🏗️ 生成包含工程文件、Gameplay、摄像机、控制、环境和视觉方向的原生 `.uproject`，而不是非 Unreal 的演示页面。
+- 🔍 通过 Pixel Streaming 在浏览器中查看运行中的游戏，迭代提示词，并在深入开发前检查生成结果。
+- 🚀 继续进入 Unreal Editor，进行 Blueprint、C++、资产、平台和引擎级定制，然后打包、下载或发布结果。
+
+如果希望快速从想法进入可玩的 Unreal 原型，可以试试 [SeeleAI Unreal Game Creator](https://www.seeles.ai/features/create/unreal-game)。
 
 ## 精选插件
 

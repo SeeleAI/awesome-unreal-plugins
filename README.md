@@ -11,7 +11,14 @@
 
 ## Build with AI
 
-Want to prototype an Unreal game faster? Try [SeeleAI Unreal Game Creator](https://www.seeles.ai/features/create/unreal-game).
+Want to prototype a native Unreal game faster? Seele Agent from SeeleAI turns a natural-language idea into an editable Unreal Engine 5 project in the browser.
+
+- 🧠 Describe a genre, scene, mechanic, or visual direction in plain language, then use an AI-generated starter prompt to shape the project.
+- 🏗️ Generate a native `.uproject` with project files, gameplay, camera, controls, environment, and visual direction instead of a non-Unreal mockup.
+- 🔍 Review the running game in the browser through Pixel Streaming, iterate on the prompt, and inspect the result before moving deeper into development.
+- 🚀 Continue in Unreal Editor for Blueprint, C++, asset, platform, and engine-level customization, then package, download, or publish the result.
+
+Try [SeeleAI Unreal Game Creator](https://www.seeles.ai/features/create/unreal-game) when you want to move from an idea to a playable Unreal prototype quickly.
 
 ## Featured plugins
 
