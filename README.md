@@ -8,7 +8,6 @@
 <img src="https://img.shields.io/badge/Unreal%20Engine-5.x-0E1128?logo=unrealengine&logoColor=white" alt="Unreal Engine">
 <img src="https://img.shields.io/badge/Curated%20by-SeeleAI-7C3AED" alt="Curated by SeeleAI">
 <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
-<a href="README_zh-CN.md"><img src="https://img.shields.io/badge/Language-English%20%7C%20%E4%B8%AD%E6%96%87-blue" alt="Language: English and Chinese"></a>
 </p>
 
 <p><a href="README.md"><strong>English</strong></a> · <a href="README_zh-CN.md">中文</a></p>
@@ -20,6 +19,20 @@
 ## Build with AI
 
 Want to prototype an Unreal game faster? Try [SeeleAI Unreal Game Creator](https://www.seeles.ai/features/create/unreal-game).
+
+## Featured plugins
+
+| Category | Project | What it provides |
+| --- | --- | --- |
+| Runtime rendering | [RealtimeMeshComponent](https://github.com/TriAxis-Games/RealtimeMeshComponent) · MIT | Runtime-generated mesh rendering for UE5 |
+| Procedural content | [PCGExtendedToolkit](https://github.com/PCGEx/PCGExtendedToolkit) · MIT | Graph, pathfinding, spatial operations, and PCG extensions |
+| Character movement | [ALS-Community](https://github.com/PanicPetal/ALS-Community) · MIT | Community-maintained Advanced Locomotion System for UE5.4 |
+| Loading & workflow | [AsyncLoadingScreen](https://github.com/truong-bui/AsyncLoadingScreen) · MIT | Configurable asynchronous loading screens |
+| Procedural worlds | [VoxelPluginFreeLegacy](https://github.com/VoxelPlugin/VoxelPluginFreeLegacy) · license to verify | Voxel terrain and procedural world tooling |
+| .NET integration | [UnrealCLR](https://github.com/nxrighthere/UnrealCLR) · license to verify | Unreal Engine and .NET integration |
+| Houdini integration | [HoudiniEngineForUnreal](https://github.com/sideeffects/HoudiniEngineForUnreal) · license to verify | Houdini Engine plugin for Unreal |
+| Shader development | [UnrealEngineShaderPluginDemo](https://github.com/Temaran/UnrealEngineShaderPluginDemo) · license to verify | HLSL pixel and compute shader examples |
+| Source control & networking | [UEGitPlugin](https://github.com/ProjectBorealis/UEGitPlugin), [SocketIOClient-Unreal](https://github.com/getnamo/SocketIOClient-Unreal) · license to verify | Git source control and Socket.IO integration |
 
 ## Categories
 
